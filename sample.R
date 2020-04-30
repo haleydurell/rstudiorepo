@@ -15,3 +15,4 @@ library("tidyverse")
   ggplot(aes(x, y)) +
   geom_point()
   
+x <- 1000
