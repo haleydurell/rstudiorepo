@@ -16,3 +16,5 @@ library("tidyverse")
   geom_point()
   
 x <- 1000
+
+y <- 500
